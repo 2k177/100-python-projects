@@ -7,4 +7,5 @@ why not give a try and takeup a 100 days challenge before the starting new year 
 
 I don't know if I will complete this challenge for 100 days, but if I do, I will feel good, Let's see..
 
-_Day 1 - Brand name generator_
+_Day 1 - Brand name generator</br>
+Day 2 - Tip calculator_
