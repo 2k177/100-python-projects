@@ -60,6 +60,8 @@ user_choice = input("What would you like? (espresso/latte/cappuccino)")
 if user_choice.lower() == "report":
     print_report()
 else:
+    print("Before ordering...")
+    print_report()
     drink = MENU[user_choice]
     check_resource(drink["ingredients"])
     check_balance(drink["cost"])
