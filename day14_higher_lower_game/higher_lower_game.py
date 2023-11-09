@@ -1,4 +1,4 @@
-from day14.game_data import data
+from game_data import data
 from art import logo,vs
 import random
 
