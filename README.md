@@ -8,4 +8,12 @@ why not give a try and takeup a 100 days challenge before the starting new year 
 I don't know if I will complete this challenge for 100 days, but if I do, I will feel good, Let's see..
 
 _Day 1 - Brand name generator</br>
-Day 2 - Tip calculator_
+Day 2 - Tip calculator</br>
+Day3 - treasure island</br>
+Day4 - rock paper scicssor</br>
+Day5 - password generator</br>
+Day6 - maze game</br>
+Day7 - hangman game</br>
+Day8 - ceasar cipher</br>
+Day9 - build auction</br>
+Day10 - calculator_</br>
